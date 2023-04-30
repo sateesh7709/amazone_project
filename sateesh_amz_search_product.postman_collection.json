@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "4e32e533-0fea-460a-8ad4-44eba2065ec5",
+		"name": "sateesh_amz_search_product",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20070798"
+	},
+	"item": [
+		{
+			"name": "sateesh_amz_search_product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/amz_search/new book",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"amz_search",
+						"new book"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
