@@ -2,6 +2,8 @@ I have tried using Two methods I will prefer to cheak on - Method 1.  - file (me
 
 Method 1.  - file (method_web_scraping.py)  - WEB SCRAPING
 
+#postman collection attached with the file's in the repo.
+
 Prerequisites:-
 
 - To run the project we need to crome driver (one is attached with the project for crome version 112) - chromedriver.exe
